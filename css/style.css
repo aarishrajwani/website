@@ -14,10 +14,7 @@
     width:100%;
     height:100%;
     overflow:visible;
-   /*background: #fff url('../img/preloader.gif') no-repeat center center;*/
-   background-image: url(img/header-bg.jpg);
-   background-size: 100% auto;
-
+   background: #fff url('../img/preloader.gif') no-repeat center center;
 }
 
 
@@ -456,8 +453,11 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	/*background: url('../img/header-bg.jpg') right bottom no-repeat;
-	background-size: contain;*/
+	/*background: url('../img/header-bg.jpg') right bottom no-repeat;*/
+	background-image: url(../img/header-bg.jpg);
+	/*background: url('../img/header-bg.jpg') right bottom no-repeat;*/
+
+	background-size: contain;
 	padding:110px 0 100px 0;
 	height:auto;
 	background-color: #FBFBFB;
