@@ -455,7 +455,6 @@ table {
 .hero {
 	/*background: url('../img/header-bg.jpg') right bottom no-repeat;*/
 	background-image: url(../img/header-bg.jpg);
-	background-repeat:no-repeat;
 	/*background: url('../img/header-bg.jpg') right bottom no-repeat;*/
 
 	background-size: contain;
